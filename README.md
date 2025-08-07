@@ -7,7 +7,7 @@
 * Timber
 * Coil
 
-###To use:
+### To use:
 1. Clone the repo to a new local directory
 2. Rename the directory
 3. Change the `app_name` to new name
